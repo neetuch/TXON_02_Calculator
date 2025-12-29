@@ -325,7 +325,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .java::before{
-    width: 90%;
+    width: 75%;
 }
 
 /* contact section styling */
@@ -566,3 +566,4 @@ footer span a:hover{
     }
 
 }
+
